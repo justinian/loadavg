@@ -9,6 +9,8 @@ fragile and annoying.
 I also wanted to learn how to make FFI calls to the C standard library in Rust.
 `getloadavgs()` was a useful choice for doing so.
 
+[tmux]: https://tmux.github.io
+
 ## Building and installing
 
 Install Rust and clone this repository. Inside this directory, type `cargo
